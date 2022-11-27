@@ -1,2 +1,2 @@
 # Python_Company
-Defines classes for an Employee and Customer using inheritance.
+This program prints out employees and customers information using inheritance.
